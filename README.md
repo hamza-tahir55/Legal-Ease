@@ -40,8 +40,7 @@ LegalEase is an AI-powered legal assistant designed to streamline legal case man
 ---
 
 ## 🧩 **APIs & Libraries Used**
-- **Google Generative AI (Gemini)** for chatbot responses
-- **Groq API** for dynamic question generation
+- **Google Generative AI (Gemini)** for chatbot responses and dynamic question generation
 - **PyMuPDFLoader** for PDF content extraction
 - **Flask** for backend routing and API handling
 - **LangChain** for conversational AI integration
@@ -113,17 +112,6 @@ LegalEase/
 
 ---
 
-## 🤝 **Contributors**
-- **[Your Name]** - Backend Development
-- **[Your Name]** - Frontend Development
-- **[Your Name]** - AI Integration
-
----
-
 ## ⚖️ **License**
 This project is licensed under the **MIT License**. Feel free to use and modify it for your needs. 
 
----
-
-## 📧 **Contact**
-For queries or collaborations, reach out at **youremail@example.com**.
