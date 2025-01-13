@@ -7,10 +7,10 @@ LegalEase is an AI-powered legal assistant designed to streamline legal case man
 ## 💻 **Tech Stack**
 - **Frontend:** Flutter (Dart)
 - **Backend:** Flask (Python)
-- **AI Models:** Google Generative AI (Gemini)
+- **AI Models:** Google Generative AI (Gemini), Meta Llama 3-8b-8192
 - **PDF Processing:** PyMuPDF
 - **Dynamic Question Generation:** Groq API
-- **Database:** Session-based storage (for temporary case data)
+- **Database:** Session-based storage (for temporary case data), Supabase Cloud (for community)
 
 ---
 
@@ -20,6 +20,7 @@ LegalEase is an AI-powered legal assistant designed to streamline legal case man
 - Lawyer listing with contact details
 - PDF document upload and viewing
 - Option to save responses and legal summaries as PDF
+- Community
 
 ### **Backend (Flask)**
 - AI-powered chatbot using Google Generative AI
@@ -27,6 +28,7 @@ LegalEase is an AI-powered legal assistant designed to streamline legal case man
 - Dynamic legal question generation based on user queries
 - Language support for both **English** and **Urdu**
 - Validation of case details (location, date, name)
+- Tailored Legal Guidance 
 
 ---
 
@@ -40,10 +42,11 @@ LegalEase is an AI-powered legal assistant designed to streamline legal case man
 ---
 
 ## 🧩 **APIs & Libraries Used**
-- **Google Generative AI (Gemini)** for chatbot responses and dynamic question generation
+- **Google Generative AI (Gemini)** for Pdf-context chatbot responses and dynamic question generation
 - **PyMuPDFLoader** for PDF content extraction
 - **Flask** for backend routing and API handling
 - **LangChain** for conversational AI integration
+- **Meta Llama 3** for tailored legal guidance 
 
 ---
 
